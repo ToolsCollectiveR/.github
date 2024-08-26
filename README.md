@@ -5,7 +5,15 @@
 ## 🎯 Mission
 
 Our mission is to create a collaborative environment where NOKUT employees can contribute and access R scripts that enhance data-driven decision-making. We aim to promote best practices in coding, encourage the sharing of reusable code, and foster innovation in the application of R for our institutional needs.
+### 🤝Contributing
+We welcome contributions from all NOKUT employees! Whether you are improving existing scripts, adding new functionality, or simply reporting bugs, your involvement is valuable.
 
+Contribution Guidelines
+Fork the repository.
+Create a branch for your feature or bugfix.
+Commit your changes with clear and descriptive messages.
+Push your branch to your forked repository.
+Submit a Pull Request to the main repository.
 ## 🚀 Getting Started
 
 ### Prerequisites
