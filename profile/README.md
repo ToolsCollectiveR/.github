@@ -22,10 +22,3 @@ To get started with ToolsCollectiveR, you need to have the following software in
 
 - **R** (version 4.0.0 or later): [Download R](https://cran.r-project.org/)
 - **RStudio** (recommended): [Download RStudio](https://rstudio.com/products/rstudio/download/)
-
-### Cloning the Repository
-
-To clone the repository to your local machine, use the following command in your terminal:
-
-```sh
-git clone https://github.com/NOKUT/ToolsCollectiveR.git
